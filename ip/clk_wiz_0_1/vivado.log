@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Mar  7 09:38:01 2021
+# Process ID: 12640
+# Current directory: E:/FPGA/shitmountain/BPSK/BPSK.srcs/sources_1/ip/clk_wiz_0_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10820 E:\FPGA\shitmountain\BPSK\BPSK.srcs\sources_1\ip\clk_wiz_0_1\clk_wiz_0.dcp
+# Log file: E:/FPGA/shitmountain/BPSK/BPSK.srcs/sources_1/ip/clk_wiz_0_1/vivado.log
+# Journal file: E:/FPGA/shitmountain/BPSK/BPSK.srcs/sources_1/ip/clk_wiz_0_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_checkpoint E:/FPGA/shitmountain/BPSK/BPSK.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0.dcp
+Command: open_checkpoint E:/FPGA/shitmountain/BPSK/BPSK.srcs/sources_1/ip/clk_wiz_0_1/clk_wiz_0.dcp
+
+Starting open_checkpoint Task
+
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.069 . Memory (MB): peak = 593.469 ; gain = 0.000
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'H:/xilinx_vivado/Vivado/2018.3/data/ip'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Netlist 29-17] Analyzing 2 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2018.3
+INFO: [Device 21-403] Loading part xc7a100tfgg484-2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 975.012 ; gain = 0.156
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Project 1-604] Checkpoint was created with Vivado v2018.3 (64-bit) build 2405991
+open_checkpoint: Time (s): cpu = 00:00:35 ; elapsed = 00:00:16 . Memory (MB): peak = 1109.586 ; gain = 521.715
+INFO: [Common 17-344] 'open_checkpoint' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Mar  7 09:38:57 2021...
